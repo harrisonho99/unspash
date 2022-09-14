@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "axios": "0.21.0",
+    "axios": "0.27.2",
     "react": "17.0.0",
     "react-dom": "17.0.0",
     "react-infinite-scroll-component": "5.1.0",
